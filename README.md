@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm an iOS Developer!
+# Hi there 👋, I'm iOS Developer!
 
 I'm passionate about creating beautiful and high-performance iOS applications! 🚀  
 Here’s a brief look at the technologies and methodologies I work with:
