@@ -8,12 +8,17 @@ Here’s a brief look at the technologies and methodologies I work with:
 
 ![UIKit](https://img.shields.io/badge/UIKit-green?style=for-the-badge&logo=apple)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)
+![MVC](https://img.shields.io/badge/MVVM-red?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-red?style=for-the-badge)
+![CleanSwift](https://img.shields.io/badge/MVVM-red?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-yellow?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-gray?style=for-the-badge&logo=api)
+![URLSession](https://img.shields.io/badge/REST_API-gray?style=for-the-badge&logo=api)
+![Alamofire](https://img.shields.io/badge/REST_API-gray?style=for-the-badge&logo=api)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-orange?style=for-the-badge&logo=cocoapods)
+![CoreData](https://img.shields.io/badge/Realm-black?style=for-the-badge&logo=realm)
 ![Realm](https://img.shields.io/badge/Realm-black?style=for-the-badge&logo=realm)
-![GCD](https://img.shields.io/badge/GCD-white?style=for-the-badge&logo=clock)
+![GCD](https://img.shields.io/badge/MVVM-red?style=for-the-badge)
 
 ---
 
